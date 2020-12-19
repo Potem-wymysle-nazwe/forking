@@ -7,3 +7,5 @@
   console.log(anagrams(["aabb", "abab", "abcd", "aabb"]))
 
   console.log("mmmmmm")
+  console.log("branch")
+  console.log("abcd")
