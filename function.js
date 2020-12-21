@@ -14,3 +14,4 @@ function b(a,b) {
     return a
 }
 console.log("abcd")
+console.log("drugi konsol")
