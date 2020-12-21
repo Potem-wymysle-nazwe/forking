@@ -13,3 +13,4 @@ console.log(minus(7,5));
 function b(a,b) {
     return a
 }
+console.log("abcd")
