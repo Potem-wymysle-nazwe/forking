@@ -9,3 +9,8 @@ function minus(n1, n2) {
 }
 
 console.log(minus(7,5));
+
+function newFunction(a, b) {
+    console.log(b-a)
+}   
+
