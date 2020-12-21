@@ -16,3 +16,4 @@ function b(a,b) {
 console.log("abcd")
 console.log("drugi konsol")
 console.log("trzeci konsol")
+console.log("czwarty konsol")
